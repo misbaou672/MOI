@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misbaou672&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbaou672&layout=compact&theme=nord&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 📫 Contact
 
 - 📧 **Email** : misbaou.diallo@etu.u-pec.fr
