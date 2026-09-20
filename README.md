@@ -53,7 +53,7 @@
 - Gestion complète d'inventaire (alertes de réapprovisionnement, entrées/sorties).  
 - Architecture MVC sans framework avec pattern Singleton et requêtes préparées.
 
-#### 🌊 [Tableau de Bord Océanographique (SAE3_Real01)](https://github.com/misbaou672/SAE3_Real01)
+#### 🌊 [Tableau de Bord Océanographique (SAE3_Real01)](https://github.com/misbaou672/SAE3_Real01 -> en pause)
 > **JavaScript · Leaflet.js · Chart.js · AJAX**  
 - Interface de cartographie interactive temps réel avec heatmaps et graphiques analytiques.
 
@@ -61,17 +61,14 @@
 > **React 19 · TypeScript · GSAP · CSS Modules**  
 - Portfolio immersif sous forme de diaporama interactif avec animations fluides (GSAP) et terminal hacker.
 
-#### 🎮 [Programmation d'un Jeu Vidéo (HAM_projet_jeu)](https://github.com/misbaou672/HAM_projet_jeu)
+#### 🎮 [Programmation d'un Jeu Vidéo (HAM_projet_jeu)](https://github.com/misbaou672/HAM_projet_jeu -> en pause)
 > **C · SDL2 · Programmation bas niveau**  
 - Développement d'un jeu vidéo avec gestion des collisions et rendu graphique en C.
 
-#### 🔍 [Moteur de Recherche Documentaire (Auriance)](https://github.com/misbaou672/Auriance)
+#### 🔍 [Moteur de Recherche Documentaire (Auriance)](https://github.com/misbaou672/Auriance -> projet Universitaire: en cours)
 > **Python · Indexation · Traitement du Langage**  
 - Conception d'un moteur de recherche avec indexation de documents et pertinence des résultats.
 
-#### 📊 [Dashboard Alternance](https://github.com/misbaou672/dashboard_alternance)
-> **JavaScript · Data Viz · HTML/CSS**  
-- Tableau de bord de suivi d'indicateurs de performance.
 
 ---
 
@@ -79,4 +76,4 @@
 
 - 📧 **Email** : misbaou.diallo@etu.u-pec.fr
 - 💼 **LinkedIn** : [DIALLO Misbaou](https://linkedin.com/in/DIALLO-Misbaou)
-- 📍 **Localisation** : Paris / Île-de-France
+- 📍 **Localisation** : Paris (Villejuif) / Île-de-France
