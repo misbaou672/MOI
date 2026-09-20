@@ -1,8 +1,7 @@
-# MOI
 # Misbaou DIALLO 👋
 
 🎓 **Étudiant en BUT 3 Informatique** @ *IUT de Créteil-Vitry (UPEC)*  
-💼 Ex-Stagiaire au service informatique de la **RATP (DSI)**  
+💼 Ex-Stagiaire au service informatique de la **RATP**  
 🚀 À la recherche d'une **alternance / stage** en Développement Full-Stack, Automation ou Backend (Île-de-France).
 
 ---
