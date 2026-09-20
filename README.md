@@ -35,10 +35,6 @@
 
 ### 🚀 Projets Principaux
 
-#### 📱 [Application Style de Vie & To-Do List](#)
-> **React · Node.js · SQLite · JWT · Chart.js**  
-- Application mobile-first de suivi d'objectifs sportifs, habitudes et tâches avec statistiques dynamiques.  
-- API REST Node.js sécurisée avec authentification JWT.
 
 #### 📦 [Logiciel de Gestion de Stock](#)
 > **PHP 8 OOP · MySQL · MVC · PDO**  
@@ -56,6 +52,12 @@
 #### 🚲 [Optimisation Algorithmique Réseau Vélib](#)
 > **Python · NumPy · SciPy · Folium**  
 - Analyse spatiale (Delaunay) et optimisation de réseau électrique via les algorithmes de Kruskal & Prim.
+
+- 
+#### 📱 [Application Style de Vie & To-Do List](#)
+> **React · Node.js · SQLite · JWT · Chart.js**  
+- Application mobile-first de suivi d'objectifs sportifs, habitudes et tâches avec statistiques dynamiques.  
+- API REST Node.js sécurisée avec authentification JWT.
 
 ---
 
