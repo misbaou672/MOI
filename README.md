@@ -40,7 +40,7 @@
 
 #### 📱 [Application Style de Vie & To-Do List (CodeRouge)](https://github.com/misbaou672/CodeRouge)
 > **React · Node.js · SQLite · JWT · Chart.js**  
-- **[Démo en ligne](https://code-rouge-mocha.vercel.app/login)** *(Mot de passe de test : `password123`)*
+- **[Démo en ligne](https://coderouge2mika.vercel.app)** *(Mot de passe de test : `password123`)*
 - Application mobile-first de suivi d'objectifs sportifs, habitudes et tâches avec statistiques dynamiques.  
 - API REST Node.js sécurisée avec authentification JWT.
 
