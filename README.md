@@ -35,29 +35,43 @@
 
 ### 🚀 Projets Principaux
 
+#### 🧾 [Logiciel de Création & Export de Devis](https://github.com/misbaou672/Devis-Pro)
+> **PHP 8 OOP · MySQL · JavaScript · Export PDF**  
+- Générateur métier de devis PDF avec calcul automatique des totaux et TVA.
 
-#### 📦 [Logiciel de Gestion de Stock](#)
+#### 📱 [Application Style de Vie & To-Do List (CodeRouge)](https://github.com/misbaou672/CodeRouge)
+> **React · Node.js · SQLite · JWT · Chart.js**  
+- Application mobile-first de suivi d'objectifs sportifs, habitudes et tâches avec statistiques dynamiques.  
+- API REST Node.js sécurisée avec authentification JWT.
+
+#### 🚲 [Optimisation Algorithmique Réseau Vélib](https://github.com/misbaou672/Velib-Optim)
+> **Python · NumPy · SciPy · Folium**  
+- Analyse spatiale (Delaunay) et optimisation de réseau électrique via les algorithmes de Kruskal & Prim.
+
+#### 📦 [Logiciel de Gestion de Stock (GestiStock)](https://github.com/misbaou672/GestiStock)
 > **PHP 8 OOP · MySQL · MVC · PDO**  
 - Gestion complète d'inventaire (alertes de réapprovisionnement, entrées/sorties).  
 - Architecture MVC sans framework avec pattern Singleton et requêtes préparées.
 
-#### 🧾 [Logiciel de Création & Export de Devis](#)
-> **PHP 8 OOP · MySQL · JavaScript · Export PDF**  
-- Générateur métier de devis PDF avec calcul automatique des totaux et TVA.
-
-#### 🌊 [Tableau de Bord Océanographique](#)
+#### 🌊 [Tableau de Bord Océanographique (SAE3_Real01)](https://github.com/misbaou672/SAE3_Real01)
 > **JavaScript · Leaflet.js · Chart.js · AJAX**  
 - Interface de cartographie interactive temps réel avec heatmaps et graphiques analytiques.
 
-#### 🚲 [Optimisation Algorithmique Réseau Vélib](#)
-> **Python · NumPy · SciPy · Folium**  
-- Analyse spatiale (Delaunay) et optimisation de réseau électrique via les algorithmes de Kruskal & Prim.
+#### 🌐 [Portfolio Personnel & Diaporama Interactif](https://github.com/misbaou672/Portfolio-Misbaou)
+> **React 19 · TypeScript · GSAP · CSS Modules**  
+- Portfolio immersif sous forme de diaporama interactif avec animations fluides (GSAP) et terminal hacker.
 
-- 
-#### 📱 [Application Style de Vie & To-Do List](#)
-> **React · Node.js · SQLite · JWT · Chart.js**  
-- Application mobile-first de suivi d'objectifs sportifs, habitudes et tâches avec statistiques dynamiques.  
-- API REST Node.js sécurisée avec authentification JWT.
+#### 🎮 [Programmation d'un Jeu Vidéo (HAM_projet_jeu)](https://github.com/misbaou672/HAM_projet_jeu)
+> **C · SDL2 · Programmation bas niveau**  
+- Développement d'un jeu vidéo avec gestion des collisions et rendu graphique en C.
+
+#### 🔍 [Moteur de Recherche Documentaire (Auriance)](https://github.com/misbaou672/Auriance)
+> **Python · Indexation · Traitement du Langage**  
+- Conception d'un moteur de recherche avec indexation de documents et pertinence des résultats.
+
+#### 📊 [Dashboard Alternance](https://github.com/misbaou672/dashboard_alternance)
+> **JavaScript · Data Viz · HTML/CSS**  
+- Tableau de bord de suivi d'indicateurs de performance.
 
 ---
 
